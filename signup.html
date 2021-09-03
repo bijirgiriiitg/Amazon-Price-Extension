@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>Please Signup</p>
+
+<div class="form-group">
+	<input type="text" class="form-control" name="name" ng-model="formData.email">
+	<br/>
+	<input type="password" class="form-control" name="password" ng-model="formData.password">
+</div>
+
+<a ng-click="signup(formData)" class="btn btn-block btn-info">Signup</a>
+<br />
+<a ui-sref="login">Login</a>
+</body>
+</html>
