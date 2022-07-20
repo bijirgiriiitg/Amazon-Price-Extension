@@ -9,7 +9,7 @@ data after sign up and Node.js to develop an extension and for database connecti
 <ul>
 <li>User can sign up and log in.</li>
 <br/>
-<li>User login details are saved.</li>
+<li>User signup details are saved.</li>
 <br/>
 </ul>
 
