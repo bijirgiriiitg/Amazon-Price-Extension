@@ -1,8 +1,8 @@
 <h1>Amazon Scraper Extension </h1>
 
 <p align="justifu">Developed a browser extension to get the product information from Amazon after sign up. The extension was developed
-to enhance the Amazon shopping experience.<hr/>
-Created a extension using NodeJS providing users with quick access to purchase and order history of Amazon.<hr/>
+to enhance the Amazon shopping experience.<br/>
+Created a extension using NodeJS providing users with quick access to purchase and order history of Amazon.<br/>
 Technologies Used: HTML, CSS, NodeJS for backend functionality, JWT for authentication, Angular for front-end
 framework and MongoDB to store data.</p>
 
